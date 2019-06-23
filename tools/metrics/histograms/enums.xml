@@ -1,0 +1,46 @@
+<!--
+Copyright 2017 The Chromium Authors. All rights reserved.
+Use of this source code is governed by a BSD-style license that can be
+found in the LICENSE file.
+-->
+
+<!--
+
+        You
+
+                   888                  d8b 888
+                   888                  88P 888
+                   888                  8P  888
+               .d88888  .d88b.  88888b. "   888888
+              d88" 888 d88""88b 888 "88b    888
+              888  888 888  888 888  888    888
+              Y88b 888 Y88..88P 888  888    Y88b.
+               "Y88888  "Y88P"  888  888     "Y888
+
+        need an OWNER review to submit changes to this file.
+
+This file describes the enumerations used in metrics data.  It is used
+along with histograms.xml to describe the histogram data collected by Chrome.
+
+For best practices on writing enumerations descriptions, see
+https://chromium.googlesource.com/chromium/src.git/+/HEAD/tools/metrics/histograms/README.md#Enum-Histograms
+
+Please pretty-print and validate your edits by running the pretty_print.py
+and validate_format.py scripts in the same directory as this file before
+uploading your change for review.  These are checked by presubmit scripts.
+-->
+
+<histogram-configuration>
+
+<!-- Enum types -->
+
+<enums>
+
+<enum name="Boolean">
+  <int value="0" label="False"/>
+  <int value="1" label="True"/>
+</enum>
+
+</enums>
+
+</histogram-configuration>

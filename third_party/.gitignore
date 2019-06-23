@@ -1,0 +1,13 @@
+/apple_apsl
+/boringssl
+/ced
+/depot_tools
+/googletest
+/icu
+/jinja2
+/libxml
+/llvm-build/
+/markupsafe
+/modp_b64
+/protobuf
+/zlib
