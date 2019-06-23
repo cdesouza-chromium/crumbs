@@ -70,7 +70,7 @@ vars = {
   'chromium_testing': '3c824205a2ac3ed2af93e5b21ff733218691fb3b',
   'chromium_third_party_apple_apsl': 'b604130b3e896b095a564726f436d1c45d76f241',
   'chromium_third_party_boringssl': '68a6b39e0f45f819ae79ddcb55d47ccffadbbaa8',
-  'chromium_third_party_boringssl_src': '92b7c89e6e8ba82924b57153bea68241cc45f658',
+  'chromium_third_party_boringssl_src': '629f321ffd98992febd751526dd1c06eff5f921a',
   'chromium_third_party_ced': 'a2afafea514434c855c38e3cf221ff4358a36caf',
   'chromium_third_party_ced_src': '1193457d7276cd49968f46e98fccc78a27881937',
   'chromium_third_party_depot_tools': 'dd2737e2b5727d836f2442d9a6d960ad978fed66',
